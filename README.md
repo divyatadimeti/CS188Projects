@@ -1,5 +1,5 @@
 # CS188 Projects
-Projects I and one teammate have completed so far for UC Berkeley's CS 188: Introduction to Artificial Intelligence. These projects focus on the Pacman world in order to AI concepts like informed state-space search, probabilistic inference, and reinforcement learning.
+Projects I and one teammate have completed so far for UC Berkeley's CS 188: Introduction to Artificial Intelligence. These projects focus on the Pacman world in order to AI concepts like informed state-space search, probabilistic inference, and reinforcement learning. 
 
 ## Project 1: Search
 We implemented graph-search algorithms (depth-first search, breadth-first search, uniform cost search, A* search) and heuristics to solve navigation and traveling salesman problems in a Pacman maze. 
